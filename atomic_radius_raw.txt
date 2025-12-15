@@ -1,0 +1,597 @@
+Atomic Number	Symbol	Name	
+Atomic Radius (van der Waals) [pm]
+
+  1
+
+	H	Hydrogen	
+
+120           
+
+  2
+
+	He	Helium	
+
+140           
+
+  3
+
+	Li	Lithium	
+
+182           
+
+  4
+
+	Be	Beryllium	
+
+153           
+
+  5
+
+	B	Boron	
+
+192           
+
+  6
+
+	C	Carbon	
+
+170           
+
+  7
+
+	N	Nitrogen	
+
+155           
+
+  8
+
+	O	Oxygen	
+
+152           
+
+  9
+
+	F	Fluorine	
+
+135           
+
+ 10
+
+	Ne	Neon	
+
+154           
+
+ 11
+
+	Na	Sodium	
+
+227           
+
+ 12
+
+	Mg	Magnesium	
+
+173           
+
+ 13
+
+	Al	Aluminum	
+
+184           
+
+ 14
+
+	Si	Silicon	
+
+210           
+
+ 15
+
+	P	Phosphorus	
+
+180           
+
+ 16
+
+	S	Sulfur	
+
+180           
+
+ 17
+
+	Cl	Chlorine	
+
+175           
+
+ 18
+
+	Ar	Argon	
+
+188           
+
+ 19
+
+	K	Potassium	
+
+275           
+
+ 20
+
+	Ca	Calcium	
+
+231           
+
+ 21
+
+	Sc	Scandium	
+
+211           
+
+ 22
+
+	Ti	Titanium	
+
+187           
+
+ 23
+
+	V	Vanadium	
+
+179           
+
+ 24
+
+	Cr	Chromium	
+
+189           
+
+ 25
+
+	Mn	Manganese	
+
+197           
+
+ 26
+
+	Fe	Iron	
+
+194           
+
+ 27
+
+	Co	Cobalt	
+
+192           
+
+ 28
+
+	Ni	Nickel	
+
+163           
+
+ 29
+
+	Cu	Copper	
+
+140           
+
+ 30
+
+	Zn	Zinc	
+
+139           
+
+ 31
+
+	Ga	Gallium	
+
+187           
+
+ 32
+
+	Ge	Germanium	
+
+211           
+
+ 33
+
+	As	Arsenic	
+
+185           
+
+ 34
+
+	Se	Selenium	
+
+190           
+
+ 35
+
+	Br	Bromine	
+
+183           
+
+ 36
+
+	Kr	Krypton	
+
+202           
+
+ 37
+
+	Rb	Rubidium	
+
+303           
+
+ 38
+
+	Sr	Strontium	
+
+249           
+
+ 39
+
+	Y	Yttrium	
+
+219           
+
+ 40
+
+	Zr	Zirconium	
+
+186           
+
+ 41
+
+	Nb	Niobium	
+
+207           
+
+ 42
+
+	Mo	Molybdenum	
+
+209           
+
+ 43
+
+	Tc	Technetium	
+
+209           
+
+ 44
+
+	Ru	Ruthenium	
+
+207           
+
+ 45
+
+	Rh	Rhodium	
+
+195           
+
+ 46
+
+	Pd	Palladium	
+
+202           
+
+ 47
+
+	Ag	Silver	
+
+172           
+
+ 48
+
+	Cd	Cadmium	
+
+158           
+
+ 49
+
+	In	Indium	
+
+193           
+
+ 50
+
+	Sn	Tin	
+
+217           
+
+ 51
+
+	Sb	Antimony	
+
+206           
+
+ 52
+
+	Te	Tellurium	
+
+206           
+
+ 53
+
+	I	Iodine	
+
+198           
+
+ 54
+
+	Xe	Xenon	
+
+216           
+
+ 55
+
+	Cs	Cesium	
+
+343           
+
+ 56
+
+	Ba	Barium	
+
+268           
+
+ 57
+
+	La	Lanthanum	
+
+240           
+
+ 58
+
+	Ce	Cerium	
+
+235           
+
+ 59
+
+	Pr	Praseodymium	
+
+239           
+
+ 60
+
+	Nd	Neodymium	
+
+229           
+
+ 61
+
+	Pm	Promethium	
+
+236           
+
+ 62
+
+	Sm	Samarium	
+
+229           
+
+ 63
+
+	Eu	Europium	
+
+233           
+
+ 64
+
+	Gd	Gadolinium	
+
+237           
+
+ 65
+
+	Tb	Terbium	
+
+221           
+
+ 66
+
+	Dy	Dysprosium	
+
+229           
+
+ 67
+
+	Ho	Holmium	
+
+216           
+
+ 68
+
+	Er	Erbium	
+
+235           
+
+ 69
+
+	Tm	Thulium	
+
+227           
+
+ 70
+
+	Yb	Ytterbium	
+
+242           
+
+ 71
+
+	Lu	Lutetium	
+
+221           
+
+ 72
+
+	Hf	Hafnium	
+
+212           
+
+ 73
+
+	Ta	Tantalum	
+
+217           
+
+ 74
+
+	W	Tungsten	
+
+210           
+
+ 75
+
+	Re	Rhenium	
+
+217           
+
+ 76
+
+	Os	Osmium	
+
+216           
+
+ 77
+
+	Ir	Iridium	
+
+202           
+
+ 78
+
+	Pt	Platinum	
+
+209           
+
+ 79
+
+	Au	Gold	
+
+166           
+
+ 80
+
+	Hg	Mercury	
+
+209           
+
+ 81
+
+	Tl	Thallium	
+
+196           
+
+ 82
+
+	Pb	Lead	
+
+202           
+
+ 83
+
+	Bi	Bismuth	
+
+207           
+
+ 84
+
+	Po	Polonium	
+
+197           
+
+ 85
+
+	At	Astatine	
+
+202           
+
+ 86
+
+	Rn	Radon	
+
+220           
+
+ 87
+
+	Fr	Francium	
+
+348           
+
+ 88
+
+	Ra	Radium	
+
+283           
+
+ 89
+
+	Ac	Actinium	
+
+260           
+
+ 90
+
+	Th	Thorium	
+
+237           
+
+ 91
+
+	Pa	Protactinium	
+
+243           
+
+ 92
+
+	U	Uranium	
+
+240           
+
+ 93
+
+	Np	Neptunium	
+
+221           
+
+ 94
+
+	Pu	Plutonium	
+
+243           
+
+ 95
+
+	Am	Americium	
+
+244           
+
+ 96
+
+	Cm	Curium	
+
+245           
+
+ 97
+
+	Bk	Berkelium	
+
+244           
+
+ 98
+
+	Cf	Californium	
+
+245           
+
+ 99
+
+	Es	Einsteinium	
+
+245           
+
